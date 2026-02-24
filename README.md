@@ -5,12 +5,12 @@ Step 1: Go to Setting and turn on Mobile Hotspot
 ![Alt text](images/Mobile_HotSpot.png)
 
 Step 2: Click on "edit" under properties
-![Alt text](images/Edit_Network_Info.png)
+![Alt text](images/Edit_Properties.png)
 
 Step 3: Change the name and password to the desired board of choice.
 Note: Set Band to 2.4GHz.
 All names are different. All passwords remain the same.
-![Alt text](images/Properties_Sample.png)
+![Alt text](images/Edit_Network_Info.png)
 
 Step 4: Click save.
 ![Alt text](images/Save.png)
