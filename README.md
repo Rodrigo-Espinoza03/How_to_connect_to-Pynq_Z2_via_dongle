@@ -14,3 +14,7 @@ All names are different. All passwords remain the same.
 
 Step 4: Click save.
 ![Alt text](images/Save.png)
+
+Step 5: Check if device is connected. Enter the IP address generated into browser.
+Note: Wifi dongle may take about 1-2 minutes to connect to hotspot.
+![Alt text](images/Device_connected.png)
